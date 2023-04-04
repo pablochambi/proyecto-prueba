@@ -16,14 +16,14 @@ public class Else_If {
 		}
 		
 		
-//			if(h >= 0 && h <= 12) 
-//				System.out.println("Buenos dias");
-//			
-//			else if(h >12 && h<= 18) 
-//				System.out.println("Buenas tardes");
-//			
-//			else 
-//				System.out.println( "Buenas noches");
+			if(h >= 0 && h <= 12) 
+				System.out.println("Buenos dias");
+			
+			else if(h >12 && h<= 18) 
+				System.out.println("Buenas tardes");
+			
+			else 
+				System.out.println( "Buenas noches");
 
 	}
 
