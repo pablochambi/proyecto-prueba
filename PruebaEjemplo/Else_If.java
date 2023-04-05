@@ -4,7 +4,7 @@ public class Else_If {
 
 	public static void main(String[] args) {
 		
-		int h = 10;
+		int h = 10;//Modificacion
 		
 			if(h >= 0 && h <= 12) 
 				System.out.println("Buenos dias");
